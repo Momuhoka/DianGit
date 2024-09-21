@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/linyer/workspace/DianGit/build",
+  "command": "/usr/sbin/gcc  -I/home/linyer/workspace/DianGit/include -g -o CMakeFiles/DianGit.dir/src/dghelp.c.o -c /home/linyer/workspace/DianGit/src/dghelp.c",
+  "file": "/home/linyer/workspace/DianGit/src/dghelp.c",
+  "output": "CMakeFiles/DianGit.dir/src/dghelp.c.o"
+},
+{
+  "directory": "/home/linyer/workspace/DianGit/build",
+  "command": "/usr/sbin/gcc  -I/home/linyer/workspace/DianGit/include -g -o CMakeFiles/DianGit.dir/src/dginit.c.o -c /home/linyer/workspace/DianGit/src/dginit.c",
+  "file": "/home/linyer/workspace/DianGit/src/dginit.c",
+  "output": "CMakeFiles/DianGit.dir/src/dginit.c.o"
+},
+{
+  "directory": "/home/linyer/workspace/DianGit/build",
+  "command": "/usr/sbin/gcc  -I/home/linyer/workspace/DianGit/include -g -o CMakeFiles/DianGit.dir/src/dgtype.c.o -c /home/linyer/workspace/DianGit/src/dgtype.c",
+  "file": "/home/linyer/workspace/DianGit/src/dgtype.c",
+  "output": "CMakeFiles/DianGit.dir/src/dgtype.c.o"
+},
+{
+  "directory": "/home/linyer/workspace/DianGit/build",
+  "command": "/usr/sbin/gcc  -I/home/linyer/workspace/DianGit/include -g -o CMakeFiles/DianGit.dir/src/diangit.c.o -c /home/linyer/workspace/DianGit/src/diangit.c",
+  "file": "/home/linyer/workspace/DianGit/src/diangit.c",
+  "output": "CMakeFiles/DianGit.dir/src/diangit.c.o"
+},
+{
+  "directory": "/home/linyer/workspace/DianGit/build",
+  "command": "/usr/sbin/gcc  -I/home/linyer/workspace/DianGit/include -g -o CMakeFiles/DianGit.dir/src/main.c.o -c /home/linyer/workspace/DianGit/src/main.c",
+  "file": "/home/linyer/workspace/DianGit/src/main.c",
+  "output": "CMakeFiles/DianGit.dir/src/main.c.o"
+}
+]

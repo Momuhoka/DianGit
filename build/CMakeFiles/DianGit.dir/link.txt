@@ -1,0 +1,1 @@
+/usr/sbin/gcc -g CMakeFiles/DianGit.dir/src/dghelp.c.o CMakeFiles/DianGit.dir/src/dginit.c.o CMakeFiles/DianGit.dir/src/dgtype.c.o CMakeFiles/DianGit.dir/src/diangit.c.o CMakeFiles/DianGit.dir/src/main.c.o -o /home/linyer/workspace/DianGit/bin/DianGit

@@ -1,0 +1,3 @@
+/home/linyer/workspace/DianGit/build/CMakeFiles/DianGit.dir
+/home/linyer/workspace/DianGit/build/CMakeFiles/edit_cache.dir
+/home/linyer/workspace/DianGit/build/CMakeFiles/rebuild_cache.dir
