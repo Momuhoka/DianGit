@@ -7,4 +7,13 @@
 #define HELP_FILE_NAME "dghelp" // 帮助文件名称
 #define DEBUG_OUT stdout // log调试信息输出位置
 
+// #define DEBUG // 开启调试
+// 调试信息输出
+#ifdef DEBUG
+    #define DEPRINT(fmt, ...) \
+    printf("[DEBUG] "fmt, ##__VA_ARGS__)
+#else
+    #define DEPRINT(...)
+#endif //DEBUG
+
 #endif // DGCONTS_H

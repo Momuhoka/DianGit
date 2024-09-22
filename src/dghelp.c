@@ -15,7 +15,7 @@ void get_help(char *work_path) {
     strcpy(help_path, work_path);
     help_path[strlen(work_path)] = '/';
     strcat(help_path, HELP_FILE_NAME);
-    printf("帮助文件绝对路径: %s\n", help_path);
+    DEPRINT("帮助文件绝对路径: %s\n", help_path);
 
     // 读取帮助文件
     FILE *fp = NULL;
@@ -25,7 +25,7 @@ void get_help(char *work_path) {
     // 没有帮助文件则生成
     if (fp == NULL) {
         fp = fopen(help_path, "w");
-        printf("未找到帮助文件信息，已帮你在当前目录下生成 %s 文件。\n", HELP_FILE_NAME);
+        DEPRINT("未找到帮助文件信息，已帮你在当前目录下生成 %s 文件。\n", HELP_FILE_NAME);
         return;
     }
 
